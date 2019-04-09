@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: MemoryPool2.h
 	> Author: lihengfeng
-	> Mail: 17704623602@163.com 
-	> Created Time: Sat Dec  9 20:22:02 2017
+	> Mail: 18554239115@163.com 
+	> Created Time: Sat Dec  9 20:22:02 2018
  ************************************************************************/
 
 #include"HandlerSupport.h"

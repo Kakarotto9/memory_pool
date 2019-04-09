@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: DirectlyAllocate.h
 	> Author: lihengfeng
-	> Mail: 17704623602@163.com 
-	> Created Time: Sun Dec  3 16:22:59 2017
+	> Mail: 18554239115@163.com 
+	> Created Time: Sun Dec  3 16:22:59 2018
  ************************************************************************/
 #include"HandlerSupport.h"
 
